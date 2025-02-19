@@ -57,7 +57,7 @@ Player 1: X
 
 Player 2: O
 
-Initial Board:
+### Initial Board:
 
 1 | 2 | 3  
 4 | 5 | 6  
