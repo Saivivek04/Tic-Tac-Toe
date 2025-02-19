@@ -60,27 +60,21 @@ Player 2: O
 Initial Board:
 
 1 | 2 | 3  
----------
 4 | 5 | 6  
----------
 7 | 8 | 9  
 
 
 Player X, enter a number (1-9) to place your mark: 1
 
 X | 2 | 3  
----------
 4 | 5 | 6  
----------
 7 | 8 | 9  
  
 
 Player O, enter a number (1-9) to place your mark: 5 
 
 X | 2 | 3  
----------
 4 | O | 6  
----------
 7 | 8 | 9  
 
 
