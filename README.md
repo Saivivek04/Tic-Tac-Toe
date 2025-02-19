@@ -3,15 +3,18 @@
 This is a simple implementation of the **Tic Tac Toe** game developed using the Python programming language. It allows two players to take turns and play a game of Tic Tac Toe in the terminal/command line.
 
 ## Features
+
 - Two-player gameplay.
 - Board displayed after every move.
 - Input validation to ensure valid moves.
 - Check for winner or draw after each move.
 
 ## Requirements
+
 - Python 3.x
 
 ## Installation
+
 To run the Tic Tac Toe game, you need to have Python installed on your machine. You can download Python from [here](https://www.python.org/downloads/).
 
 ## Steps:
