@@ -46,11 +46,14 @@ The game checks after every move whether a player has won or if there is a draw.
 ---------
 7 | 8 | 9
 
+
 Players input a number (1-9) to place their mark in the corresponding position.
 
 ## Example Gameplay
 
 Player 1: X
+
+
 Player 2: O
 
 Initial Board:
@@ -61,6 +64,7 @@ Initial Board:
 ---------
 7 | 8 | 9
 
+
 Player X, enter a number (1-9) to place your mark: 1
 
 X | 2 | 3
@@ -68,6 +72,7 @@ X | 2 | 3
 4 | 5 | 6
 ---------
 7 | 8 | 9
+
 
 Player O, enter a number (1-9) to place your mark: 5 
 
@@ -77,13 +82,14 @@ X | 2 | 3
 ---------
 7 | 8 | 9
 
+
 ...
 
 ## Code Explanation
--display_board(): This function prints the current state of the game board to the console after each move.
--player_move(player): This function allows the current player to make a move by selecting a number between 1-9 that corresponds to a spot on the board.
--check_winner(player): This function checks if the current player has won the game.
--play_game(): This is the main function that drives the entire game.
+- display_board(): This function prints the current state of the game board to the console after each move.
+- player_move(player): This function allows the current player to make a move by selecting a number between 1-9 that corresponds to a spot on the board.
+- check_winner(player): This function checks if the current player has won the game.
+- play_game(): This is the main function that drives the entire game.
 
 ## Contact Information
 - **Email**: saiuppala2003@gmail.com
