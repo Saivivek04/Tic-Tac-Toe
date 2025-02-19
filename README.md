@@ -43,9 +43,9 @@ The game checks after every move whether a player has won or if there is a draw.
 
 ## Example of the Game Board:
 
-1 | 2 | 3  
+1 | 2 | 3
 ---------
-4 | 5 | 6  
+4 | 5 | 6
 ---------
 7 | 8 | 9  
 
